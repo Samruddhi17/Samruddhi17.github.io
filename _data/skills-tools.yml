@@ -6,13 +6,13 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: Bash
   weight: 3
 
 - name: Terraform/Ansible 
-  weight: 1
+  weight: 4
 
 - name: Jenkins
   weight: 3
@@ -20,9 +20,6 @@
 - name: Docker
   weight: 4
 
-- name: npm
-  weight: 2
-
 - name: VS Code/Pycharm
-  weight: 3
+  weight: 1
 

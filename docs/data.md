@@ -20,12 +20,12 @@ Example of a project:
     - tag: Node
 ```
 
-## skills-frameworks.yml
+## skills-technology.yml
 
-* `name`: Name of your framework
-* `weight`: Describes how good you know the framework - values from 1 up to 5
+* `name`: Name of your technology
+* `weight`: Describes how good you know the technology - values from 1 up to 5
 
-Example of a framework:
+Example of a technology:
 
 ```yml
 - name: Jekyll

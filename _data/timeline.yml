@@ -42,7 +42,7 @@
     - tag: Jenkins
     - tag: Python Flask
     - tag: Heroku
-  timeline-side: right
+  timeline-side: left
 
 - title: Blue Cross Blue Shield Association
   title-url: https://www.bcbs.com/
@@ -52,16 +52,16 @@
     - tag: MongoDB
     - tag: Python Flask
     - tag: CSS, BootStrap
-  timeline-side: left
+  timeline-side: right
 
 - title: Illinois Institute of Technology,Chicago 
   title-url: https://www.iit.edu/
   date: Aug 2016 - May 2018
   subtitle: Masters of Computer Science
-  timeline-side: right
+  timeline-side: left
 
 - title: Pune University
   title-url: http://www.unipune.ac.in/
   date: 2012-2016
   subtitle: B.E. in Information Technology
-  timeline-side: left
+  timeline-side: right

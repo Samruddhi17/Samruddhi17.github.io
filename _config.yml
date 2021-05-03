@@ -7,14 +7,14 @@ title: Samruddhi
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/cv"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Samruddhi
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
 email: samruddhi.naik17@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,11 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I graduated with Master's in Computer Science at Illinois Institute of Technology, Chicago.
-- Being an ardent learner, I always like to explore new horizons. I wish to enrich my knowledge of the nuances of the Computer Science.
-- I would like to use this wisdom to advance my chances for a productive career in Software. I am extremely eager to work on the latest technologies and also seek to take advantage of the surplus opportunities in the domain of Computer Science.
-- I'm a very passionate and dedicated person. I have good communication skills and great leadership qualities. I'm quick at learning new things and have analytical thinking capabilities.
-
+about_me_description: I graduated with Master's in Computer Science at Illinois Institute of Technology, Chicago. Being an ardent learner, I always like to explore new horizons. I wish to enrich my knowledge of the nuances of the Computer Science.I would like to use this wisdom to advance my chances for a productive career in Software. I am extremely eager to work on the latest technologies and also seek to take advantage of the surplus opportunities in the domain of Computer Science. I'm a very passionate and dedicated person. I have good communication skills and great leadership qualities. I'm quick at learning new things and have analytical thinking capabilities
 
 # SKILLS SECTION
 # show_skills_card:
@@ -67,7 +63,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
@@ -75,7 +71,7 @@ projects_title: Projects
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -85,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Feel free to contact me.
+contact_description: Feel free to contact me using any of these from below.
 
 # GITHUB-METADATA
 # Set this to your forked repository

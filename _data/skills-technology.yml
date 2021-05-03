@@ -1,0 +1,30 @@
+# > name: Name of your technology
+# > weight: Describes how good you know the technology - values from 1 up to 5
+#
+# Example of a technology
+# - name: technology
+#   weight: 5
+
+- name: AWS
+  weight: 5
+
+- name: Cassandra
+  weight: 4
+
+- name: MongoDb
+  weight: 2
+
+- name: Kafka
+  weight: 3
+
+- name: Elasticsearch
+  weight: 2
+
+- name: Elasticache
+  weight: 3
+
+- name: Python Flask
+  weight: 2
+
+- name: Consul
+  weight: 2
