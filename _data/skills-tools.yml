@@ -11,26 +11,18 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
+- name: Terraform/Ansible 
   weight: 1
 
 - name: Jenkins
-  weight: 1
+  weight: 3
 
-- name: Chrome DevTools
-  weight: 2
+- name: Docker
+  weight: 4
 
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: VS Code/Pycharm
   weight: 3
 
-- name: Postman
-  weight: 4

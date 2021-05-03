@@ -17,45 +17,51 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Cisco Systems, Inc
+  title-url: https://www.cisco.com/c/en/us/index.html
+  date: October 2018 - Present
+  subtitle: Software Engineer II
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Cassandra
+    - tag: Kafka | Mirrormaker
+    - tag: Python
+    - tag: Elasticsearch
+    - tag: AWS Elasticache
+    - tag: RabbitMQ
+    - tag: SQS
+    - tag: Redis
+    - tag: Consul
+    - tag: AWS RDS
   timeline-side: right
 
-- title: Google
+- title: ANSYS Inc.
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
+  date: Spring 2018
   subtitle: Software Engineer as Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Jenkins
+    - tag: Python Flask
+    - tag: Heroku
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Blue Cross Blue Shield Association
+  title-url: https://www.bcbs.com/
+  date: Summer 2017
+  subtitle: DevOps Engineer Intern
+  tags:
+    - tag: MongoDB
+    - tag: Python Flask
+    - tag: CSS, BootStrap
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Illinois Institute of Technology,Chicago 
+  title-url: https://www.iit.edu/
+  date: Aug 2016 - May 2018
+  subtitle: Masters of Computer Science
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Pune University
+  title-url: http://www.unipune.ac.in/
+  date: 2012-2016
+  subtitle: B.E. in Information Technology
   timeline-side: left

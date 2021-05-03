@@ -34,13 +34,13 @@ Example of a framework:
 
 ## skills-languages.yml
 
-* `name`: Name of your programming language
-* `weight`: Describes how good you know the language - values from 1 up to 5
+* `name`: Python
+* `weight`: 5
 
 Example of a language:
 
 ```yml
-- name: CSS
+- name: Python
   weight: 3
 ```
 
