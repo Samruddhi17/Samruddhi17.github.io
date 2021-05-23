@@ -22,7 +22,7 @@ email: samruddhi.naik17@gmail.com
 # > twitter_username:
 github_username: Samruddhi17
 # codepen_username: exampleUser
-# dev_username: exampleUser
+my_homepage: https://samruddhi17.github.io/home/
 linkedin_username: samruddhinaik
 # twitter_username: exampleUser
 
@@ -79,7 +79,7 @@ os_projects_title: Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contact Me
 # contact_description: This will be displayed under the title.
 contact_description: Feel free to contact me using any of these from below.
 
