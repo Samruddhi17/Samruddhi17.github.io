@@ -20,11 +20,11 @@
 - title: Cisco Systems, Inc
   title-url: https://www.cisco.com/c/en/us/index.html
   date: October 2018 - Present
-  subtitle: Software Engineer II
+  subtitle: Cloud Engineer
   tags:
     - tag: Cassandra
     - tag: Kafka | Mirrormaker
-    - tag: Python
+    - tag: Terrafrom | Ansible | Jenkins
     - tag: Elasticsearch
     - tag: AWS Elasticache
     - tag: RabbitMQ
@@ -32,6 +32,7 @@
     - tag: Redis
     - tag: Consul
     - tag: AWS RDS
+    - tag: Python Boto3
   timeline-side: right
 
 - title: ANSYS Inc.
